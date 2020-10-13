@@ -49,7 +49,6 @@ public class CodeChallenge13_VCPairs {
                         if(!((ch[i]=='a')||(ch[i]=='e')||(ch[i]=='i')||(ch[i]=='o')||(ch[i]=='u')))
 
                         {
-
                             if((ch[i+1]=='a')||(ch[i+1]=='e')||(ch[i+1]=='i')||(ch[i+1]=='o')||(ch[i+1]=='u'))
 
                             {
